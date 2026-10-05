@@ -1,0 +1,4 @@
+allowBuilds:
+  '@apollo/protobufjs': true
+  '@parcel/watcher': true
+  unrs-resolver: false
